@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Environments
+venv/
+env/
+.env
+
+# Data
+# We ignore the raw dataset because it is too large and unnecessary for the final app.
+data/
+
+# OS generated files
+.DS_Store
+Thumbs.db
